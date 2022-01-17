@@ -1,0 +1,181 @@
+<pre class='metadata'>
+Title: 2022 January Library Evolution Polls
+Shortname: D2458
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2458
+!Source: <a href="https://github.com/brycelelbach/wg21_p2458_2022_january_library_evolution_polls/blob/main/2022_january_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2458_2022_january_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+Default Biblio Display: direct
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in January of 2022.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R2]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/HyTMtXnQxP4oydNy">Vote here</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2022-01-17: Draft polls distributed by mailing list.
+- 2022-01-18: Final Library Evolution discussion telecon on the polls.
+- 2022-01-18: Start of the polling period.
+- 2022-02-04: End of the polling period.
+- 2021-02-07: Chairs share results and summarize outcomes.
+
+# Polls # {#poll}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and
+  comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## Poll 1: [[P2300R4]] `std::execution` ## {#poll-1}
+
+Send
+  [[P2300R4]] (`std::execution`)
+  to Library Working Group for C++23,
+  classified as a focus ([[P0592R4]] bucket 1 item).
+
+## Poll 2: [[P0493R3]] Atomic Maximum/Minimum ## {#poll-2}
+
+Send
+  [[P0493R3]] (Atomic Maximum/Minimum)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 3: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-3}
+
+Send
+  [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 4: [[P2322R5]] `ranges::fold` ## {#poll-4}
+
+Send
+[[P2322R5]] `ranges::fold`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 5: [[P2302R2]] `ranges::contains` ## {#poll-5}
+
+Send
+  [[P2302R2]] `ranges::contains`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 6: [[P1899R2]] `views::stride` ## {#poll-6}
+
+Send
+  [[P1899R2]] `views::stride`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+
+
+<pre class=biblio>
+{
+  "P2300R4": {
+    "title": "std::execution",
+    "authors": [
+      "Michał Dominiak",
+      "Lewis Baker",
+      "Lee Howes",
+      "Kirk Shoop",
+      "Michael Garland",
+      "Eric Niebler",
+      "Bryce Adelstein Lelbach"
+    ],
+    "href": "https://wg21.link/P2300R4",
+    "date": "2022-01-18"
+  },
+  "P2494R1": {
+    "title": "Relaxing range adaptors to allow for move only types",
+    "authors": [
+      "Michał Dominiak"
+    ],
+    "href": "https://wg21.link/P2494R1",
+    "date": "2022-01-17"
+  },
+  "P1899R2": {
+    "title": "stride_view",
+    "authors": [
+      "Christopher di Bella",
+      "Tim Song"
+    ],
+    "href": "https://wg21.link/P1899R2",
+    "date": "2021-12-20"
+  }
+}
+</pre>
+
