@@ -162,6 +162,13 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+## Poll 10: [[P2508R1]] Expose `basic-format-string<charT, Args...>` ## {#poll-10}
+
+Send
+  [[P2508R1]] (Expose `basic-format-string<charT, Args...>`)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
 
 
 <pre class=biblio>
@@ -219,6 +226,14 @@ Send
       "Michał Dominiak"
     ],
     "href": "https://wg21.link/P2474R1",
+    "date": "2022-01-18"
+  },
+  "P2508R1": {
+    "title": "Expose `basic-format-string<charT, Args...>`",
+    "authors": [
+      "Barry Revzin"
+    ],
+    "href": "https://wg21.link/P2508R1",
     "date": "2022-01-18"
   }
 }
