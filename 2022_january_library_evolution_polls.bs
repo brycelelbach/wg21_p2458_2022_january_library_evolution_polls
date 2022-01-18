@@ -123,35 +123,35 @@ Send
 ## Poll 4: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-4}
 
 Send
-  [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types
+  [[P2494R1]] (Relaxing Range Adaptors To Allow For Move Only Types)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ## Poll 5: [[P2322R5]] `ranges::fold` ## {#poll-5}
 
 Send
-[[P2322R5]] `ranges::fold`
+[[P2322R5]] (`ranges::fold`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 6: [[P2302R2]] `ranges::contains` ## {#poll-6}
 
 Send
-  [[P2302R2]] `ranges::contains`
+  [[P2302R2]] (`ranges::contains`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 7: [[P1899R2]] `views::stride` ## {#poll-7}
 
 Send
-  [[P1899R2]] `views::stride`
+  [[P1899R2]] (`views::stride`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
 ## Poll 8: [[P2474R1]] `views::repeat` ## {#poll-8}
 
 Send
-  [[P2474R1]] `views::repeat`
+  [[P2474R1]] (`views::repeat`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
