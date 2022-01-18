@@ -141,6 +141,13 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+## Poll 7: [[P2474R1]] `views::repeat` ## {#poll-7}
+
+Send
+  [[P2474R1]] `views::repeat`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
 
 
 <pre class=biblio>
@@ -175,6 +182,14 @@ Send
     ],
     "href": "https://wg21.link/P1899R2",
     "date": "2021-12-20"
+  },
+  "P2474R1": {
+    "title": "views::repeat",
+    "authors": [
+      "Michał Dominiak"
+    ],
+    "href": "https://wg21.link/P2474R1",
+    "date": "2022-01-18"
   }
 }
 </pre>
