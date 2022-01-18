@@ -113,35 +113,42 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 3: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-3}
+## Poll 3: [[P2286R6]] Formatting Ranges ## {#poll-3}
+
+Send
+  [[P2286R6]] (Formatting Ranges)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 4: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-4}
 
 Send
   [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 4: [[P2322R5]] `ranges::fold` ## {#poll-4}
+## Poll 5: [[P2322R5]] `ranges::fold` ## {#poll-5}
 
 Send
 [[P2322R5]] `ranges::fold`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 5: [[P2302R2]] `ranges::contains` ## {#poll-5}
+## Poll 6: [[P2302R2]] `ranges::contains` ## {#poll-6}
 
 Send
   [[P2302R2]] `ranges::contains`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 6: [[P1899R2]] `views::stride` ## {#poll-6}
+## Poll 7: [[P1899R2]] `views::stride` ## {#poll-7}
 
 Send
   [[P1899R2]] `views::stride`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 7: [[P2474R1]] `views::repeat` ## {#poll-7}
+## Poll 8: [[P2474R1]] `views::repeat` ## {#poll-8}
 
 Send
   [[P2474R1]] `views::repeat`
@@ -164,6 +171,14 @@ Send
       "Bryce Adelstein Lelbach"
     ],
     "href": "https://wg21.link/P2300R4",
+    "date": "2022-01-18"
+  },
+  "P2286R6": {
+    "title": "Formatting Ranges",
+    "authors": [
+      "Barry Revzin"
+    ],
+    "href": "https://wg21.link/P2286R6",
     "date": "2022-01-18"
   },
   "P2494R1": {
