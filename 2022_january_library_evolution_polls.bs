@@ -120,35 +120,42 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 4: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-4}
+## Poll 4: [[P2165R3]] Compatibility Between `tuple`, `pair`, And `tuple`-Like Objects ## {#poll-4}
+
+Send
+  [[P2165R3]] (Compatibility Between `tuple`, `pair`, And `tuple`-Like Objects)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 5: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-5}
 
 Send
   [[P2494R1]] (Relaxing Range Adaptors To Allow For Move Only Types)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 5: [[P2322R5]] `ranges::fold` ## {#poll-5}
+## Poll 6: [[P2322R5]] `ranges::fold` ## {#poll-6}
 
 Send
 [[P2322R5]] (`ranges::fold`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 6: [[P2302R2]] `ranges::contains` ## {#poll-6}
+## Poll 7: [[P2302R2]] `ranges::contains` ## {#poll-7}
 
 Send
   [[P2302R2]] (`ranges::contains`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 7: [[P1899R2]] `views::stride` ## {#poll-7}
+## Poll 8: [[P1899R2]] `views::stride` ## {#poll-8}
 
 Send
   [[P1899R2]] (`views::stride`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 8: [[P2474R1]] `views::repeat` ## {#poll-8}
+## Poll 9: [[P2474R1]] `views::repeat` ## {#poll-9}
 
 Send
   [[P2474R1]] (`views::repeat`)
@@ -180,6 +187,14 @@ Send
     ],
     "href": "https://wg21.link/P2286R6",
     "date": "2022-01-18"
+  },
+  "P2165R3": {
+    "title": "Compatibility between tuple, pair and tuple-like objects",
+    "authors": [
+      "Corentin Jabot"
+    ],
+    "href": "https://wg21.link/P2165R3",
+    "date": "2022-01-17"
   },
   "P2494R1": {
     "title": "Relaxing range adaptors to allow for move only types",
