@@ -176,6 +176,13 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+## Poll 12: [[P2404R2]] Move-Only Types For `equality_comparable_with`, `totally_ordered_with`, And `three_way_comparable_with` ## {#poll-12}
+
+Send
+  [[P2404R2]] (Move-Only Types For `equality_comparable_with`, `totally_ordered_with`, And `three_way_comparable_with`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
 
 
 <pre class=biblio>
@@ -250,6 +257,14 @@ Send
     ],
     "href": "https://wg21.link/P2248R4",
     "date": "2022-01-03"
+  },
+  "P2404R2": {
+    "title": "Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with",
+    "authors": [
+      "Justin Bassett"
+    ],
+    "href": "https://wg21.link/P2404R2",
+    "date": "2022-01-19"
   }
 }
 </pre>
