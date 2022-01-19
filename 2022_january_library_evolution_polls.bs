@@ -169,6 +169,13 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+## Poll 11: [[P2248R4]] Enabling List-Initialization For Algorithsm ## {#poll-11}
+
+Send
+  [[P2248R4]] (Enabling List-Initialization For Algorithms)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
 
 
 <pre class=biblio>
@@ -235,6 +242,14 @@ Send
     ],
     "href": "https://wg21.link/P2508R1",
     "date": "2022-01-18"
+  },
+  "P2248R4": {
+    "title": "Enabling list-initialization for algorithms",
+    "authors": [
+      "Giuseppe D'Angelo"
+    ],
+    "href": "https://wg21.link/P2248R4",
+    "date": "2022-01-03"
   }
 }
 </pre>
