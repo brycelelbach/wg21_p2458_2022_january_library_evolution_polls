@@ -106,77 +106,84 @@ Send
   to Library Working Group for C++23,
   classified as a focus ([[P0592R4]] bucket 1 item).
 
-## Poll 2: [[P0493R3]] Atomic Maximum/Minimum ## {#poll-2}
+## Poll 2: [[P2363R3]] Extending Associative Containers With The Remaining Heterogeneous Overloads ## {#poll-2}
+
+Send
+  [[P2363R3]] (Extending Associative Containers With The Remaining Heterogeneous Overloads)
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## Poll 3: [[P0493R3]] Atomic Maximum/Minimum ## {#poll-3}
 
 Send
   [[P0493R3]] (Atomic Maximum/Minimum)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 3: [[P2286R6]] Formatting Ranges ## {#poll-3}
+## Poll 4: [[P2286R6]] Formatting Ranges ## {#poll-4}
 
 Send
   [[P2286R6]] (Formatting Ranges)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 4: [[P2165R3]] Compatibility Between `tuple`, `pair`, And `tuple`-Like Objects ## {#poll-4}
+## Poll 5: [[P2165R3]] Compatibility Between `tuple`, `pair`, And `tuple`-Like Objects ## {#poll-5}
 
 Send
   [[P2165R3]] (Compatibility Between `tuple`, `pair`, And `tuple`-Like Objects)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 5: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-5}
+## Poll 6: [[P2494R1]] Relaxing Range Adaptors To Allow For Move Only Types ## {#poll-6}
 
 Send
   [[P2494R1]] (Relaxing Range Adaptors To Allow For Move Only Types)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 6: [[P2322R5]] `ranges::fold` ## {#poll-6}
+## Poll 7: [[P2322R5]] `ranges::fold` ## {#poll-7}
 
 Send
 [[P2322R5]] (`ranges::fold`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 7: [[P2302R2]] `ranges::contains` ## {#poll-7}
+## Poll 8: [[P2302R2]] `ranges::contains` ## {#poll-8}
 
 Send
   [[P2302R2]] (`ranges::contains`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 8: [[P1899R2]] `views::stride` ## {#poll-8}
+## Poll 9: [[P1899R2]] `views::stride` ## {#poll-9}
 
 Send
   [[P1899R2]] (`views::stride`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 9: [[P2474R1]] `views::repeat` ## {#poll-9}
+## Poll 10: [[P2474R1]] `views::repeat` ## {#poll-10}
 
 Send
   [[P2474R1]] (`views::repeat`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 10: [[P2508R1]] Expose `basic-format-string<charT, Args...>` ## {#poll-10}
+## Poll 11: [[P2508R1]] Expose `basic-format-string<charT, Args...>` ## {#poll-11}
 
 Send
   [[P2508R1]] (Expose `basic-format-string<charT, Args...>`)
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 11: [[P2248R4]] Enabling List-Initialization For Algorithsm ## {#poll-11}
+## Poll 12: [[P2248R4]] Enabling List-Initialization For Algorithsm ## {#poll-12}
 
 Send
   [[P2248R4]] (Enabling List-Initialization For Algorithms)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 12: [[P2404R2]] Move-Only Types For `equality_comparable_with`, `totally_ordered_with`, And `three_way_comparable_with` ## {#poll-12}
+## Poll 13: [[P2404R2]] Move-Only Types For `equality_comparable_with`, `totally_ordered_with`, And `three_way_comparable_with` ## {#poll-13}
 
 Send
   [[P2404R2]] (Move-Only Types For `equality_comparable_with`, `totally_ordered_with`, And `three_way_comparable_with`)
@@ -200,6 +207,16 @@ Send
     ],
     "href": "https://wg21.link/P2300R4",
     "date": "2022-01-18"
+  },
+  "P2363R3": {
+    "title": "Extending associative containers with the remaining heterogeneous overloads",
+    "authors": [
+      "Konstantin Boyarinov",
+      "Sergey Vinogradov",
+      "Ruslan Arutyunyan"
+    ],
+    "href": "https://wg21.link/P2363R3",
+    "date": "2022-01-19"
   },
   "P2286R6": {
     "title": "Formatting Ranges",
