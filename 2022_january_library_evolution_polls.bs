@@ -176,7 +176,7 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-## Poll 12: [[P2248R4]] Enabling List-Initialization For Algorithsm ## {#poll-12}
+## Poll 12: [[P2248R4]] Enabling List-Initialization For Algorithms ## {#poll-12}
 
 Send
   [[P2248R4]] (Enabling List-Initialization For Algorithms)
