@@ -32,7 +32,7 @@ All committee members may vote, but if you have not participated in the Library
 
 ## How to Vote ## {#how-to-vote}
 
-<b><a href="https://documents.isocpp.org/index.php/apps/forms/HyTMtXnQxP4oydNy">Vote here</a></b>
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/emqBrSRg2MY4EN9z">Vote here</a></b>
 
 A documents.isocpp.org account is necessary to vote.
 If you have an isocpp.org/papers account, a documents.isocpp.org account has
@@ -57,7 +57,7 @@ If you need to change how you voted or have any questions or issues about
 
 - 2022-01-17: Draft polls distributed by mailing list.
 - 2022-01-18: Final Library Evolution discussion telecon on the polls.
-- 2022-01-18: Start of the polling period.
+- 2022-01-20: Start of the polling period.
 - 2022-02-04: End of the polling period.
 - 2021-02-07: Chairs share results and summarize outcomes.
 
