@@ -32,7 +32,9 @@ All committee members may vote, but if you have not participated in the Library
 
 ## How to Vote ## {#how-to-vote}
 
-<b><a href="https://documents.isocpp.org/index.php/apps/forms/emqBrSRg2MY4EN9z">Vote here</a></b>
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/emqBrSRg2MY4EN9z">Vote here (polls 1 to 13)</a></b>
+
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/a2cM4yNzQZHWJtE9">Vote here (poll 14)</a></b>
 
 A documents.isocpp.org account is necessary to vote.
 If you have an isocpp.org/papers account, a documents.isocpp.org account has
@@ -190,6 +192,13 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+## Poll 14: [[P2502R1]] `std::generator` ## {#poll-14}
+
+Send
+  [[P2502R1]] (`std::generator`)
+  to Library Working Group for C++23,
+  classified as a focus ([[P0592R4]] bucket 1 item).
+
 
 
 <pre class=biblio>
@@ -282,6 +291,14 @@ Send
     ],
     "href": "https://wg21.link/P2404R2",
     "date": "2022-01-19"
+  },
+  "P2502R1": {
+    "title": "std::generator",
+    "authors": [
+      "Casey Carter"
+    ],
+    "href": "https://wg21.link/P2502R1",
+    "date": "2022-01-25"
   }
 }
 </pre>
